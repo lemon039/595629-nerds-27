@@ -1,7 +1,8 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Сергей Плякин](https://up.htmlacademy.ru/htmlcss/27/user/595629).
-* Наставник: `Неизвестно`.
+* Наставник: [Вадим Новаш]
+(https://htmlacademy.ru/profile/stakeout).
 
 ---
 
